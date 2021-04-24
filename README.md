@@ -6,6 +6,6 @@ Use next the 'chord-x' class name where 'x' will be the name of the chord to be 
 
 An example is provided at [index.html](index.html) :
 
-[demo_img1](demo/img1.png?raw=true)
+![demo_img1](demo/img1.png?raw=true)
 
-[demo_img2](demo/img2.png?raw=true)
+![demo_img2](demo/img2.png?raw=true)
